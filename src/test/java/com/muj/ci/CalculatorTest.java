@@ -16,7 +16,6 @@ public class CalculatorTest {
         Calculator calc = new Calculator();
         assertEquals(2, calc.subtract(5, 3));
     }
-}
     @Test
     public void testMultiply() {
         Calculator calc = new Calculator();
@@ -34,3 +33,4 @@ public class CalculatorTest {
         Calculator calc = new Calculator();
         calc.divide(6, 0);
     }
+}
