@@ -1,7 +1,7 @@
 # DevOps Assignment – Jenkins and Continuous Integration
 
 This repository contains my DevOps laboratory assignment on **Jenkins and Continuous Integration**.
-
+##Details
 -Name: Deepkiran  
 -Registration Number: 23FE10CSE00307
 -Course: B.Tech Computer Science and Engineering  
